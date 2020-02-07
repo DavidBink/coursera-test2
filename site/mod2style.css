@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="mod2style.css">
-<title>Our Menu</title>
-<!-- <style>
-
 /********** Base styles **********/
 * {
   box-sizing: border-box;
@@ -386,19 +377,3 @@ p {
 	margin-top: 0px;
 }
 }
-
-</style> -->
-</head>
-<body>
-<h1 id="big">Our Menu</h1>	
-<h1 id="small">Categories</h1>
-
-
-<div class="row">
-  <div class="col-lg-4 col-md-6 col-sm-12"><h3 id="chickensmall">Chicken. Here is some more text in the title region.</h3><p>This is dummy text about chicken. We offer a variety of chicken dishes. From salads to bowls, chicken is a vital ingredient in all of our dishes. Hopefully you find something you enjoy! Here is some extra text to show the scrollable feature. This is a super cool feature and I am proud I accomplished this feat. Let's just add a few more words to show the truly amazing nature of this feature.</p><h3 id="chicken">Chicken</h3></div>
-  <div class="col-lg-4 col-md-6 col-sm-12"><h3 id="beefsmall">Beef. Here is some more text in the title region.</h3><p>This is dummy text about beef. We offer a variety of beef dishes. From salads to bowls, beef is a vital ingredient in all of our dishes. Hopefully you find something you enjoy! Here is some extra text to show the scrollable feature. This is a super cool feature and I am proud I accomplished this feat. Let's just add a few more words to show the truly amazing nature of this feature.</p><h3 id="beef">Beef</h3></div>
-  <div class="col-lg-4 col-md-12 col-sm-12"><h3 id="sushismall">Sushi. Here is some more text in the title region.</h3><p>This is dummy text about sushi. We offer a variety of sushi dishes. From traditional rolls to supreme rolls, sushi is a vital item on our menu, plus the art is a lot of fun! Hopefully you find something you enjoy! Here is some extra text to show the scrollable feature. This is a super cool feature and I am proud I accomplished this feat. Let's just add a few more words to show the truly amazing nature of this feature.</p><h3 id="sushi">Sushi</h3></div>
-</div>
-
-</body>
-</html>
